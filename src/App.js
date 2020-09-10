@@ -4,7 +4,7 @@ import Home from './Home.js';
 import Header from './Header.js';
 import Footer from './Footer.js';
 import SearchPage from './SearchPage.js';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
 
 function App() {
   return (
