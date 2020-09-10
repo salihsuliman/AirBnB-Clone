@@ -26,22 +26,25 @@ function Home() {
                 description="Unique activities we can do together, led by a world of hosts."
                 />
             </div>
-            <div className="home__selection">
+            <div className="home__section">
             <Card 
                 src="https://s3-ap-southeast-1.amazonaws.com/bengkel/wp-content/uploads/2017/03/27114830/gravity-home-apartment.jpg"
                 title="Online Experiences"
                 description="Unique activities we can do together, led by a world of hosts."
+                price="$50/night"
                 />
                 <Card 
                 src="https://www.lowestrates.ca/sites/default/files/Thursday-How-does-operating-Airbnb-affect-your-home-insurance-.jpg"
                 title="Online Experiences"
                 description="Unique activities we can do 
                 together, led by a world of hosts."
+                price="$80/night"
                 />
                 <Card 
                 src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/skiers-paradise-facing-mont-blanc-airbnb-plus-homes-1550247789.jpg"
                 title="Online Experiences"
                 description="Unique activities we can do together, led by a world of hosts."
+                price="$98/night"
                 />
             </div>
         </div>
